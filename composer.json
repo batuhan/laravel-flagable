@@ -1,5 +1,5 @@
 {
-	"name": "rtconner/laravel-likeable",
+	"name": "batuhan/laravel-flagable",
 	"description": "Trait for Laravel Eloquent models to allow easy implementation of a 'like' or 'favorite' or 'remember' feature.",
 	"license": "MIT",
 	"homepage": "https://smartersoftware.net/packages/laravel-likeable-favorite",
@@ -25,7 +25,7 @@
 			"migrations"
 		],
 		"psr-0": {
-			"Conner\\Likeable\\": "src/"
+			"Batuhan\\Flaggable\\": "src/"
 		}
 	}
 }
