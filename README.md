@@ -1,9 +1,9 @@
-Laravel Flagable Plugin
+Laravel Flaggable Plugin
 ============
 
-[![Build Status](https://travis-ci.org/rtconner/laravel-flagable.svg?branch=master)](https://travis-ci.org/rtconner/laravel-flagable)
-[![Latest Stable Version](https://poser.pugx.org/rtconner/laravel-flagable/v/stable.svg)](https://packagist.org/packages/rtconner/laravel-likeable)
-[![License](https://poser.pugx.org/rtconner/laravel-likeable/license.svg)](https://packagist.org/packages/rtconner/laravel-likeable)
+[![Build Status](https://travis-ci.org/batuhan/laravel-flaggable.svg?branch=master)](https://travis-ci.org/batuhan/laravel-flaggable)
+[![Latest Stable Version](https://poser.pugx.org/batuhan/laravel-flaggable/v/stable.svg)](https://packagist.org/packages/batuhan/laravel-flaggable)
+[![License](https://poser.pugx.org/batuhan/laravel-flaggable/license.svg)](https://packagist.org/packages/batuhan/laravel-flaggable)
 
 Trait for Laravel Eloquent models to allow easy implementation of a "flag" feature. Only tested with Laravel 5.
 
